@@ -42,7 +42,7 @@ To provide structured, practical, and execution-driven knowledge in Software Eng
 ## 👤 Author
 
 **Megavarshan A**  
-AI Research Engineer | AI & Product Enthusiast  
+AI Research Engineer | Product Enthusiast  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/megavarshan)
 
